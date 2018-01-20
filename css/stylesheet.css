@@ -45,6 +45,10 @@ table {
 	border-spacing: 0;
 }
 
+img {
+    image-orientation: from-image;
+}
+
 /*=======================================*/
 
 html, body{
@@ -86,7 +90,6 @@ div.hidden{
 }
 
 .red{
-	color:black !important;
 }
 
 .hide{
