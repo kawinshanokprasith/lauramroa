@@ -72,8 +72,10 @@ div.hidden{
 }
 
 .lauraroa {
-	font-size:22px;
-	letter-spacing:0.1em;
+	font-family:"Times New Roman", Times, serif !important;
+	font-size:26px !important;
+	line-height:95% !important;
+	letter-spacing:0.01em !important;
 	margin-bottom:30px;
 	color:black !important;
 }
@@ -127,8 +129,9 @@ a.black:active {text-decoration: none; color;}
 }
 
 .sidenav {
-	position:fixed;
+	position:absolute;
 	width:200px;
+	height:100%;
 	z-index:200;
 }
 
